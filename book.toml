@@ -1,0 +1,6 @@
+[book]
+authors = ["Etsune"]
+language = "en"
+multilingual = false
+src = "src"
+title = "kansai-japanese"
